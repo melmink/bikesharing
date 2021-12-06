@@ -1,5 +1,5 @@
 # NYC Citibike Trip Analysis
-![Link to Challenge](https://public.tableau.com/views/NYCCitibikeTripAnalysis_16387391794660/NYCCitibikeTripAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Link to Challenge](https://public.tableau.com/views/NYCCitibikeTripAnalysis_16387391794660/NYCCitibikeTripAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Overview
 ### Purpose of this analysis
@@ -7,31 +7,31 @@ Apotential investor would like to see data on how a bike sharing program in NYC 
 
 ## Results
 ### Gender Breakdown
-![Gender Breakdown]()
+![Gender Breakdown](https://github.com/melmink/bikesharing/blob/main/Gender%20Breakdown.PNG)
 Approximately 1/8th of riders were of unknown gender, 1/4th were female, and the remainder were male.
 
 ### Bike Utilization
-![Bike Utilization]()
+![Bike Utilization](https://github.com/melmink/bikesharing/blob/main/Bike%20Utilization.PNG)
 The highest number of bikes utilized at one time is 479.
 
 ### Checkout Times for Users
-![Checkout Times for Users]()
+![Checkout Times for Users](https://github.com/melmink/bikesharing/blob/main/Checkout%20Times%20for%20Users.PNG)
 This visiualization is bikes checked out with a trip duration of two hours or less. The vast majority of trips were less than 40 minutes with a peak of around 5 minutes.
 
 ### Checkout Times by Gender
-![Checkout Times by Gender]()
+![Checkout Times by Gender](https://github.com/melmink/bikesharing/blob/main/Checkout%20Times%20by%20Gender.PNG)
 This visiualization is bikes checked out with a trip duration of two hours or less. The majority of bikes were checked out by male riders with trip durations less than an hour. 
 
 ### Trips by Weekday per Hour
-![Trips by Weekday]()
+![Trips by Weekday](https://github.com/melmink/bikesharing/blob/main/Trips%20by%20Weekday.PNG)
 During the week, there are more trips in the morning hours, and early evening hours than during the day. On the weekends, there are more trips during the day.
 
 ### Trips by Gender (Weekday per Hour)
-![Trips by Gender]()
+![Trips by Gender](https://github.com/melmink/bikesharing/blob/main/Trips%20by%20Gender.PNG)
 The most popular morning hours are between 7 AM and 9 AM during the week for both genders, with the highest number being male. The most popular afternoon hours are between 5 PM and 7 PM during the week for both genders, also with the highest number being male.
 
 ### User Trips by Gender
-![User Trips by Gender]()
+![User Trips by Gender](https://github.com/melmink/bikesharing/blob/main/User%20Trips%20by%20Gender.PNG)
 The highest number of trips was for Male Subscribers on Thursdays. The highest activity for non-subcribers of unknown gender was on the weekends.
 
 ## Summary
